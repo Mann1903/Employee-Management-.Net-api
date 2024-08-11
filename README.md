@@ -1,3 +1,6 @@
+(this only contains the api look for Employee CRUD in react) 
+
+
 Employee Management System - CRUD Operations
 Overview
 This system is built using .NET API with SQL Server (SSMS) and Entity Framework Core, designed to efficiently manage employee profiles.
